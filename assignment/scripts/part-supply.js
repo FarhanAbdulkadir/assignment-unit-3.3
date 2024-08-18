@@ -98,7 +98,7 @@ for (let i = 0; i < supplyChanges.length; i++){
 totalParts+= supplyChanges[i];
 
 }
-console.log('this is the sum of the supply changes array:', totalParts);
+console.log(`this is the sum of the supply changes array: ${totalParts}`);
 
 // 9. We have a large stash of parts in our warehouse that we 
 //    need to box up and get ready for shipment. There are 572
